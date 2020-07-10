@@ -1,5 +1,6 @@
 # Welcome to giáo.làng repository
 This repository contains a simple Java application used for the demonstration of CI - Continuous Integration process, as a part of Introduction to Software Engineering course at FPT University, HCMC Campus
+Đạt ơi là Đạt, thứ 2 cafe
 
 ## You will find in this repo:
 * MathUtil class - holds all of my own math methods
