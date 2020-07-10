@@ -10,6 +10,7 @@ This repository contains a simple Java application used for the demonstration of
 ## Connect me via
 1. [Facebook](https://facebook.com/giao.lang.bis)
 2. [GitHub](https://github.com/doit-now)
+3. [Email](hoang.nguyenthe@gmail.com)
 
-#### © 2020 by giáo.làng
+#### © 2020 by giáo.làng | FPT University HCMC 
  
