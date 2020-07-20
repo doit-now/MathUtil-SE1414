@@ -42,6 +42,8 @@ public class UnitTestTest {
         //tức là phải có value để so, mà ngoại lệ Exception thì ko phải là value
         //ta phải dùng chiêu
         
+        
+        
     }
     //dù code bạn viết có đỏ hay xanh miễn ko bị lỗi cú pháp khi gõ, lỗi import
     //thì CLEAN & BUILD LUÔN RA ĐC FILE .JAR .WAR
